@@ -1,2 +1,4 @@
 # PROGRAM_DESIGN_2
-PROGRAM_DESIGN_2 HW
+Program Design 2 HW project
+
+GAME Design
