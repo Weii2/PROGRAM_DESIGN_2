@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/box2.png</file>
+        <file>res/restart.png</file>
+        <file>res/map.in</file>
+        <file>res/map1.in</file>
+        <file>res/pass.gif</file>
+        <file>res/person2.png</file>
+        <file>res/person1.png</file>
+        <file>res/person3.png</file>
+        <file>res/background1.png</file>
+        <file>res/background3.png</file>
+        <file>res/wall.png</file>
+        <file>res/dot.png</file>
+    </qresource>
+</RCC>

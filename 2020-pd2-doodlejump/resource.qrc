@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/doodle.png</file>
+        <file>res/sword.png</file>
+        <file>res/platform_normal.png</file>
+        <file>res/gameover.png</file>
+        <file>res/background.png</file>
+        <file>res/background2.png</file>
+        <file>res/background3.png</file>
+        <file>res/pause.png</file>
+        <file>res/start.png</file>
+        <file>res/platform_transparent.png</file>
+        <file>res/spring.png</file>
+        <file>res/spring_press.png</file>
+        <file>res/rocket.png</file>
+        <file>res/rocket_fire.png</file>
+        <file>res/monster.png</file>
+        <file>res/blackhole.png</file>
+        <file>res/protection_shield.png</file>
+        <file>res/doodle_shield.png</file>
+        <file>res/platform_moving.png</file>
+        <file>res/restart.png</file>
+        <file>res/background_music.mp3</file>
+        <file>res/sword_sound.mp3</file>
+        <file>res/doodle 2.png</file>
+        <file>res/doodle 3.png</file>
+        <file>res/doodle 2_shield.png</file>
+        <file>res/doodle 3_shield.png</file>
+    </qresource>
+</RCC>
